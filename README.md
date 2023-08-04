@@ -13,6 +13,8 @@ Steps :
    Now Hit API in Postman,We will Get "access Token" in response
 6. Now copy access token & hit our "GetMapping" API with Type(Bearer Token) & paste access token there ->Hit Api
 7. Now as it is authenticate so we will get Our response which we were expecting
+
+FOR MORE INFORMATION 👉  https://developer.okta.com/docs/guides/protect-your-api/springboot/main/
                            
                            
 
